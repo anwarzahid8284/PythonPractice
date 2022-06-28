@@ -7,5 +7,6 @@ class HiPython:
         print("Hia this is " + self.langName + " with " + self.langConcept)
 
 
+
 hiPython1 = HiPython('Python', 'Object Oriented')
 hiPython1.method1()
